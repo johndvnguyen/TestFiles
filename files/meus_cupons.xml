@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+  <title>KaBuM! Meus Cupons</title>
+  <link>https://www.kabum.com.br</link>
+  <description>XML de Produtos</description>
+		<item>
+		<title><![CDATA[Cadeira Gamer Husky Snow Black Blue HSN-BB]]></title>
+		<g:id><![CDATA[92749]]></g:id>
+		<g:brand><![CDATA[Husky]]></g:brand>
+		<g:condition><![CDATA[new]]></g:condition>
+		<description><![CDATA[Cadeira Gamer Husky Snow Black Blue HSN-BB]]></description>
+		<g:image_link><![CDATA[http://images9.kabum.com.br/produtos/fotos/92749/92749_1507724390_index_g.jpg]]></g:image_link>
+		<g:additional_image_link><![CDATA[http://images9.kabum.com.br/produtos/fotos/92749/92749_1507724390_index_g.jpg]]></g:additional_image_link>
+		<link><![CDATA[https://www.kabum.com.br/link/226/92749/]]></link>
+		<g:price><![CDATA[R$ 467,41]]></g:price>
+		<g:sale_price><![CDATA[R$ 467,41]]></g:sale_price>
+		<g:availability><![CDATA[out of stock]]></g:availability>
+		<g:installment>
+		<g:months><![CDATA[10]]></g:months>
+		<g:amount><![CDATA[54.99]]></g:amount>
+		</g:installment>
+		<g:product_type><![CDATA[Cadeiras Gamer > Husky]]></g:product_type>
+		</item>
+
+  </channel>
+  </rss>
